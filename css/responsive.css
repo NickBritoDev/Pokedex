@@ -1,0 +1,7 @@
+@media screen and (max-width: 450px){
+    .pokedex{
+        height: 90vh;
+        width: 95%;
+        max-width: 450px;
+    }
+}
